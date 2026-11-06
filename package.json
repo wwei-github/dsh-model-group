@@ -1,16 +1,26 @@
 {
   "name": "dsh-model-group",
   "version": "1.0.0",
-  "private": true,
   "description": "在 DeepSeek Harness 的 composer 模型名前面显示它所属的分组（provider）名称。",
   "type": "module",
   "main": "index.js",
+  "license": "MIT",
+  "author": "wwei-github",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wwei-github/dsh-model-group.git"
+  },
+  "homepage": "https://github.com/wwei-github/dsh-model-group#readme",
+  "bugs": {
+    "url": "https://github.com/wwei-github/dsh-model-group/issues"
+  },
   "files": [
     "index.js",
     "client.js",
     "cordis.patch.yml",
     "locale/*.json",
-    "icon.svg"
+    "icon.svg",
+    "docs/*.png"
   ],
   "exports": {
     ".": "./index.js",
@@ -22,7 +32,9 @@
   "keywords": [
     "dsh",
     "dsh-plugin",
-    "deepseek-harness"
+    "deepseek-harness",
+    "deepseek",
+    "cordis"
   ],
   "dsh": {
     "bundle": {
