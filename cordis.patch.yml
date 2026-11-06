@@ -1,0 +1,5 @@
+# 纯 insert(id/name) 可热挂载，不需要重启应用。
+# name 必须等于真实包名：cordis 按 name 去 import 包，写错会报 Cannot find package。
+- insert:
+    - id: dsh-model-group
+      name: dsh-model-group

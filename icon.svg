@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Model Group Label">
+  <rect x="4" y="14" width="26" height="20" rx="6" fill="#3a7bd5"/>
+  <rect x="34" y="30" width="26" height="20" rx="6" fill="#3a7bd5" opacity="0.55"/>
+  <rect x="20" y="40" width="24" height="12" rx="4" fill="#8fb6ea"/>
+</svg>

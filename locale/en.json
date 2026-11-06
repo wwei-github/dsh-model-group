@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Model Group Label",
+    "description": "Shows the provider group name before the model name in the composer."
+  }
+}
